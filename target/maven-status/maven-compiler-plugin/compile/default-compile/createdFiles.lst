@@ -1,0 +1,5 @@
+com\upiiz\categorias\models\CategoriasModel.class
+com\upiiz\categorias\repository\CategoriasRepository.class
+com\upiiz\categorias\services\CategoriasService.class
+com\upiiz\categorias\controllers\CategoriasController.class
+com\upiiz\categorias\CategoriasApplication.class
